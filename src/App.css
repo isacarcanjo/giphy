@@ -1,0 +1,19 @@
+.giphy-grid {
+  margin: 0px auto;
+  display: block;
+}
+
+.container-img {
+  width: 100%;
+}
+.container-img img {
+  width: 10%;
+  display: block;
+  margin: 0px auto;
+}
+
+
+.center {
+  display: block;
+  margin: 0px auto;
+}
